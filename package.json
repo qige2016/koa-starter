@@ -2,8 +2,6 @@
   "name": "hello-koa",
   "version": "1.0.0",
   "description": "",
-  "keywords": [],
-  "license": "ISC",
   "author": "",
   "main": "./src/index.ts",
   "scripts": {
